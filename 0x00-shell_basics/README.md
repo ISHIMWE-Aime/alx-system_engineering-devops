@@ -1,0 +1,1 @@
+pwd is used to print workind directory
