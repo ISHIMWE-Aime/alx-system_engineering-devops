@@ -1,1 +1,1 @@
-pwd is used to print workind directory
+This command is used to print the absolute path of current working directory
