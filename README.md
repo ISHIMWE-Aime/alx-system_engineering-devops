@@ -1,1 +1,2 @@
-This repository is bout the shell basics
+# alx-system_engineering-devops
+Shell navigation basics project
